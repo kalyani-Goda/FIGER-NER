@@ -1,0 +1,9 @@
+Pytorch
+Python3
+Keras
+Transformers
+Datasets
+numpy
+scipy
+sklearn
+tensorflow

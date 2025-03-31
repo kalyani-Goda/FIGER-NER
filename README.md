@@ -16,7 +16,7 @@
 - The preprocessing scripts are in the folder: /preprocessing
 
 **Code for LSTM and BERT**:
-- **LSTM:**
+-**LSTM:**
 
 - Folder: /code/LSTM_NER
 - File: lstm_ner.py
