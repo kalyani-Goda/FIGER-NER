@@ -106,14 +106,6 @@
 
 ---
 
-## Challenges Faced
-| Model  | Major Challenges                          |
-|--------|-------------------------------------------|
-| LSTM   | High system requirements (15GB RAM)       |
-| BERT   | Long training times (2-3 days)            |
-
----
-
 ## Conclusion
 BERT demonstrated superior performance for NER tasks, achieving high accuracy with fewer training epochs compared to LSTM. Future work could focus on:
 - Better OOV handling
